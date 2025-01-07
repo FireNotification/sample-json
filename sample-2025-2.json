@@ -35,6 +35,6 @@
     "2025-02-28": {"selected":true, "selectedColor": "green"},
     "2025-02-29": {"selected":true, "selectedColor": "green"},
     "2025-02-30": {"selected":true, "selectedColor": "blue"},
-    "2025-02-31": {"selected":true, "selectedColor": "blue"}
+    "2025-02-31": {"selected":true, "selectedColor": "blue"},
     "2025-03-01": {"selected":true, "selectedColor": "salmon"}
   }
